@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>ﾋﾞﾙﾄﾞのﾛｸﾞ</h1>
+<h3>
+--------------------構成: SnakeGame - Win32 Release--------------------
+</h3>
+<h3>ｺﾏﾝﾄﾞ ﾗｲﾝ</h3>
+一時ﾌｧｲﾙ "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPD2.tmp" を作成し、次の内容を記録します
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/SnakeGame.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\maxdh\myMade\SnakeGame\SnakeGameDlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPD2.tmp" 
+ｺﾏﾝﾄﾞ ﾗｲﾝ "link.exe /nologo /subsystem:windows /incremental:no /pdb:"Release/SnakeGame.pdb" /machine:I386 /out:"Release/SnakeGame.exe"  .\Release\SnakeGame.obj .\Release\SnakeGameDlg.obj .\Release\StdAfx.obj .\Release\SnakeGame.res " の作成中
+<h3>ｱｳﾄﾌﾟｯﾄ ｳｨﾝﾄﾞｳ</h3>
+ｺﾝﾊﾟｲﾙ中...
+SnakeGameDlg.cpp
+ﾘﾝｸ中...
+
+
+
+<h3>結果</h3>
+SnakeGame.exe - ｴﾗｰ 0、警告 0
+</pre>
+</body>
+</html>
